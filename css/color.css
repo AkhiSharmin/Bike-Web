@@ -1,0 +1,19 @@
+.bg-color {
+  background-color: #16423c;
+}
+.btn-clr {
+  background-color: #e76f51;
+}
+.text-clr {
+  color: #e76f51;
+}
+.line {
+  height: 2px;
+  width: 80px;
+  background-color: red;
+  margin: 0 auto;
+  padding: 0;
+}
+.btn-hover:hover {
+  background-color: #e76f51;
+}
